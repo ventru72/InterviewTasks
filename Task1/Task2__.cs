@@ -8,24 +8,7 @@ namespace Tasks
 {
     public static class Task2__
     {
-        static int m = 0;
-        static int n = 0;
-        static int LenghtM = 0;
-        static int LenghtN = 0;
-        static int count = 0;
-        static int x = 0;
-        static int y = 0;
-        static int iS = 0;
-        static int iD = 0;
-        static int jS = 0;
-        static int jE = 0;
-        static int end = 0;
-        static int iLength = 0;
-        static int jLength = 0;
-        static int size = 0;
-        static int sizeY = 0;
-
-
+        
         static StringBuilder result = new StringBuilder();
         static List<int> listResult = new List<int>();
         public static List<int> DecomposeMatrix(int[,] arr)

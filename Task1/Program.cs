@@ -21,7 +21,7 @@ namespace Tasks
             int[,] arr3 = new int[5, 5] { { 1, 2, 3, 4 ,5 }, {  6,7,8, 9, 10 }, {11,12,13,14,15 },  {16, 17,18,19,20 }, { 21, 22, 23, 24, 25 } };
             int[,] arr4 = new int[4, 5] { { 1, 2, 3, 4, 5 }, { 6, 7, 8, 9, 10 }, { 11, 12, 13, 14, 15 }, { 16, 17, 18, 19, 20 }  };
             List<int> resultDecompressMatrix = Task2__.DecomposeMatrix(arr3);
-             Task2.Spiral(arr2);
+           
         }
     }
 }
